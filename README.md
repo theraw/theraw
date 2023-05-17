@@ -11,9 +11,6 @@
       <td colspan="2">&nbsp;</td>
    </tr>
    <tr>
-      <td colspan="2">Stuff that I know and use: Bash, PHP, Node.js, React, JavaScript, Laravel, Redis, MySQL, Docker, Wrangler, Lua</td>
-   </tr>
-   <tr>
       <td colspan="2">&nbsp;</td>
    </tr>
    <tr>
