@@ -88,6 +88,21 @@
    <tr>
       <td colspan="2" align="center">
       <p align="center">
+         <a href="https://github.com/pterodactyl/panel" target="_blank" title="Pterodactyl">
+            <img src="https://img.icons8.com/?size=512&id=YxngeayofcUD&format=png" alt="Pterodactyl" width="40" height="40"/> 
+         </a>
+         <a href="https://cpanel.net/" target="_blank" title="cPanel">
+            <img src="https://img.icons8.com/?size=48&id=guteo8_ARDB_&format=png" alt="cPanel" width="40" height="48"/> 
+         </a>
+         <a href="https://plesk.com/" target="_blank" title="Plesk">
+            <img src="https://scdn1.plesk.com/wp-content/uploads/2017/05/24160451/plesk_logo_primary_positive_.jpg" alt="Plesk" width="50" height="40"/>
+         </a>
+      </p>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center">
+      <p align="center">
          <a href="https://laravel.com/" target="_blank" title="Laravel">
             <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel" width="40" height="40"/> 
          </a>
